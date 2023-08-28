@@ -1,1 +1,1 @@
-# quantum_computing_research
+# Repository for my quantum computing research at UNC Asheville
